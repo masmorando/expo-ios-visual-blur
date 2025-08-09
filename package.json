@@ -1,7 +1,7 @@
 {
   "name": "expo-ios-visual-blur",
   "version": "0.1.0",
-  "description": "Testing for now.",
+  "description": "🎨 Native iOS progressive blur for React Native (Expo) — smooth, customizable SwiftUI blur effects with directional gradients and easy integration. 🍎✨",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
