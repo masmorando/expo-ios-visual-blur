@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-ios-visual-blur": ["../src/index"],
+      "expo-ios-visual-blur/*": ["../src/*"]
+    }
+  }
+}
