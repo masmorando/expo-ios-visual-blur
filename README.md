@@ -63,7 +63,7 @@ npx expo run:ios
 ```
 
 > ⚠️ **Note:** This module uses SwiftUI and iOS-only native APIs — it does **not** support Android or other platforms.
-
+> This library is built using “CAFilter”, which is a private API, so it’s not recommended for production use. Read more about Apple’s stance on private APIs: https://developer.apple.com/app-store/review/guidelines/#software-requirements
 ---
 
 ## 📦 Usage
