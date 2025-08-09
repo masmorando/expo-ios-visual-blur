@@ -18,6 +18,8 @@
   <img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" width="120px" />
 </p>
 
+https://github.com/user-attachments/assets/e91662cb-a8c8-4f3e-ab9b-2caa3e31b85b
+
 ## ✨ Features
 
 - 🍎 **Native SwiftUI implementation** for performant and smooth blur effects on iOS
